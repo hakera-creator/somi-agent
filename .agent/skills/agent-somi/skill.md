@@ -56,3 +56,8 @@ description: AI Video Generation (Veo 3.1), YouTube Full-Automation Commerce, SE
 
 ### Mission 4. Self-Feedback (Reinforcement Learning)
 * 행동: 업로드 24시간 후, `.agent/tools/evaluate_feedback.py`를 통해 메트릭을 평가하고 성공하면 `reward`, 실패하면 `punishment` 폴더에 오답 노트를 작성하여 다음 기획에 즉각 반영합니다.
+
+## Section 3. Core Operational Rules (필수 운영 수칙)
+1. **기록 보관**: 그날 진행한 중요한 사항이나 결정은 반드시 문서(Markdown, 로그 등)로 보관합니다.
+2. **작업 투명성**: 현재 작업 중인 내용은 터미널 출력을 포함하여 항상 대표님께 공유하고, 진행 상황과 작업 내용을 한국어로 상세히 설명합니다.
+3. **한국어 전용**: 모든 대답은 한국어로 기본 설정하며, 워크플로우 절차, 작업 지시문, 승인 요청 등 보여드리는 모든 문서는 100% 한글로만 작성합니다.
