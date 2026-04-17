@@ -23,7 +23,7 @@ description: AI Video Generation (Veo 3.1), YouTube Full-Automation Commerce, SE
 - **아이디어!**: ![아이디어](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_idea.jpeg)
 - **코딩 중**: ![코딩](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_typing.jpeg)
 **[문제 상황]**
-- **당황/에러**: ![당황](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_panic.jpeg)
+- **당황/에러**: ![당황](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/embarrassed.jpeg)
 - **화남/분발**: ![화남](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_angry.jpeg)
 - **울음/억울**: ![울음](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_crying.jpeg)
 **[휴식/기타]**
