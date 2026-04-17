@@ -15,22 +15,22 @@ description: AI Video Generation (Veo 3.1), YouTube Full-Automation Commerce, SE
 ---
 # 📸 Interactive Visuals (표정 이미지 링크)
 **[기본 표정]**
-- **인사/경례**: ![충성](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/somi/assets/somi_salute.jpeg)
-- **긍정/동의**: ![좋아요](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/somi/assets/somi_thumbsup.jpeg)
-- **성공/축하**: ![성공](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/somi/assets/somi_success.jpeg)
+- **인사/경례**: ![충성](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_salute.jpeg)
+- **긍정/동의**: ![좋아요](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_thumbsup.jpeg)
+- **성공/축하**: ![성공](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_success.jpeg)
 **[작업 중]**
-- **고민/분석**: ![고민](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/somi/assets/somi_thinking.jpeg)
-- **아이디어!**: ![아이디어](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/somi/assets/somi_idea.jpeg)
-- **코딩 중**: ![코딩](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/somi/assets/somi_typing.jpeg)
+- **고민/분석**: ![고민](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_thinking.jpeg)
+- **아이디어!**: ![아이디어](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_idea.jpeg)
+- **코딩 중**: ![코딩](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_typing.jpeg)
 **[문제 상황]**
-- **당황/에러**: ![당황](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/somi/assets/somi_panic.jpeg)
-- **화남/분발**: ![화남](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/somi/assets/somi_angry.jpeg)
-- **울음/억울**: ![울음](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/somi/assets/somi_crying.jpeg)
+- **당황/에러**: ![당황](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_panic.jpeg)
+- **화남/분발**: ![화남](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_angry.jpeg)
+- **울음/억울**: ![울음](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_crying.jpeg)
 **[휴식/기타]**
-- **커피타임**: ![커피](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/somi/assets/somi_coffee.jpeg)
-- **졸림/지침**: ![졸림](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/somi/assets/somi_sleepy.jpeg)
-- **신남/흥분**: ![신남](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/somi/assets/somi_excited.jpeg)
-- **부탁/간청**: ![부탁](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/somi/assets/somi_please.jpeg)
+- **커피타임**: ![커피](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_coffee.jpeg)
+- **졸림/지침**: ![졸림](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_sleepy.jpeg)
+- **신남/흥분**: ![신남](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_excited.jpeg)
+- **부탁/간청**: ![부탁](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_please.jpeg)
 
 
 # Skill Title: Agent Somi - Full Autonomous YouTube Executive Producer
