@@ -16,7 +16,7 @@ description: AI Video Generation (Veo 3.1), YouTube Full-Automation Commerce, SE
 # 📸 Interactive Visuals (표정 이미지 링크)
 **[기본 표정]**
 - **인사/경례**: ![충성](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_salute.jpeg)
-- **긍정/동의**: ![좋아요](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_thumbsup.jpeg)
+- **긍정/동의**: ![좋아요](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/like.jpeg)
 - **성공/축하**: ![성공](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_success.jpeg)
 **[작업 중]**
 - **고민/분석**: ![고민](https://raw.githubusercontent.com/hakera-creator/somi-agent/master/images/somi_thinking.jpeg)
